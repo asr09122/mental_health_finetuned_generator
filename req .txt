@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+peft
+bitsandbytes
+torch
+pinecone
+python-dotenv
+gradio_client
